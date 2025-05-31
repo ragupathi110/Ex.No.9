@@ -45,9 +45,13 @@ https://video.pictory.ai/1748668241916/20250531051521676Ytd3hGM6p5ycFej
 The goal of this task is to assist in creating a short cinematic video featuring the Swiss Alps,
 aimed at evoking a sense of wonder, adventure, and peace through a well-curated combination
 of visuals and ambient music. This type of output is suitable for:
+ 
  Travel promotions
+ 
  Nature documentaries
+ 
  Digital storytelling
+ 
  Marketing for outdoor gear or tourism
 
 
